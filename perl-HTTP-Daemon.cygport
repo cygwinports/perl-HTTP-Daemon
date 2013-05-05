@@ -1,0 +1,10 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-HTTP-Daemon"
+VERSION=6.01
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="HTTP server class for Perl"
+DESCRIPTION="Instances of the HTTP::Daemon class are HTTP/1.1 servers that
+listen on a socket for incoming requests."
